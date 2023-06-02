@@ -1,5 +1,6 @@
 {
     "require": {
-        "phpgangsta/googleauthenticator": "dev-master"
+        "phpgangsta/googleauthenticator": "dev-master",
+        "predis/predis": "^2.1"
     }
 }
